@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+*{
+  font-family: 'Zen Kurenaido', sans-serif;
+  margin:0px;
+  padding: 0px;
+}
+
